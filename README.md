@@ -1,4 +1,4 @@
-# LINEAR-AND-CIRCULAR-CONVOLUTION-USING-DFT
+# EXPT 1: LINEAR-AND-CIRCULAR-CONVOLUTION-USING-DFT
 ## AIM
 To perform and verify linear and circular convolution operation of two given sequences
 using SCILAB.
